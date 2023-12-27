@@ -80,6 +80,7 @@ try:
 except Exception as e:
     print(e)
     print("\nHouve algum erro durante a execucao do programa, tente novamente, e se o erro persistir, envie um comunicado a equipe de suporte\n")
+    # Uma vez ou outra o código não consegue carregar a página, então é necessário reiniciar o processo
     input("Pressione ENTER para finalizar o programa...\n")
 
 # Encerra webdriver

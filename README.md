@@ -7,6 +7,7 @@ Como solução, adotei utilizar cliques para acessar os blocos do formulário, e
 
 ### Funcionamento
 Execução padrão -> python main.py
+
 Execução com melhor visualização -> python main.py -v
 
 Obs.: Na execução padrão, você pode interagir normalmente com o computador durante a execução do programa.
